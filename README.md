@@ -1,2 +1,2 @@
-# pandas-challenge
+# Pandas-Challenge
 UCF Bootcamp Challenge
